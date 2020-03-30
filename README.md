@@ -1,5 +1,5 @@
 # Healthcare Logistics Modelling for covid19 crisis
-A Project to try to model healthcare's logistical needs due to covid19 crisis.
+A Project to model local healthcare's logistical needs due to covid19 crisis.
 
 ### Inspired and Motivated by:
 
