@@ -1,0 +1,15 @@
+Links to further research material
+
+Papers:
+
+- Marc Lipsitch's paper: https://dash.harvard.edu/bitstream/handle/1/42599304/Inpatient%20ICU%20beds%20needs%20for%20COVID-19%20medRxiv.pdf?sequence=1&isAllowed=y
+
+- Report 12 of Imperial College London: https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/news--wuhan-coronavirus/
+
+Research on the following articles to find their sources (Use Adblocker):
+
+- https://www.statnews.com/2020/03/16/coronavirus-model-shows-hospitals-what-to-expect/
+
+- https://www.healthcaredive.com/news/dire-warnings-sound-over-hospital-capacity-as-novel-coronavirus-spreads/574049/
+
+- https://projects.propublica.org/graphics/covid-hospitals

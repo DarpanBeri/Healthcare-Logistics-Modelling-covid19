@@ -1,0 +1,39 @@
+Notes on the MSRI video
+
+Video Link: https://youtu.be/MZ957qhzcjI
+
+General Notes: 
+
+* Look at timestamp 51:35 which talks about the need to model healthcare needs.
+
+* Look at timestamp 56:50 which talks about reading on healthcare needs and paper he could suggest.
+
+* Look into agent based modelling.
+
+Further Research:
+
+* Imperial Collenge London Model. Report 12.
+https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/news--wuhan-coronavirus/ 
+
+"... our mitigated scenarios lead to peak demand for critical care beds in a typical low-income setting outstripping supply by a factor of 25... "
+
+*  Timestamp 56:50 paper. Paper by Marc Lipsitch.
+https://dash.harvard.edu/bitstream/handle/1/42599304/Inpatient%20ICU%20beds%20needs%20for%20COVID-19%20medRxiv.pdf?sequence=1&isAllowed=y
+
+Takeaways:
+
+• The aim of the model should not be to give scientific predictions. They should help with providing key insights that may not be visible using commonsense - Chris Whitty, CMO England, 2015
+
+• Models cannot accurately predict the peak. Rnot is a variable.
+
+• Models tend to be too simplistic.
+
+• Models do tell us about where we are heading and what we need to do.
+
+• Imperial College model is a major influential model.
+
+• Vaccine timeline is 12-18 months, where 12 months is super optimistic. Thus there will be multiple waves and those waves will affect the logistics. The pandemic timeline is 1-2 years (based off models).
+
+• It is not established that people can get reinfected or not. If so, the logistic requirements may fall short.
+
+• It is better to have 4 or 5 modelling groups giving somewhat dissenting advice than to have 1 group giving a decisive advice.

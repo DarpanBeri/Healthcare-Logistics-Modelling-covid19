@@ -1,0 +1,9 @@
+Possible model methodologies
+
+Compartmental model:
+
+- Mentioned in the MSRI video.
+
+- Input: number of infected people.
+
+- Model if they need to be hospitalized, if so do they need ICU care, if so do they need Ventilators etc.
