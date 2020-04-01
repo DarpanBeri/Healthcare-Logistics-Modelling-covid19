@@ -6,10 +6,10 @@ Papers:
 
 - Report 12 of Imperial College London: https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/news--wuhan-coronavirus/
 
-Research on the following articles to find their sources (Use Adblocker):
+Models:
 
-- https://www.statnews.com/2020/03/16/coronavirus-model-shows-hospitals-what-to-expect/
+- CHIME https://technical.ly/philly/2020/03/17/penn-medicine-chime-digital-tool-hospitals-covid19-coronavirus-capacity-planning/      -------- SIR based model.
 
-- https://www.healthcaredive.com/news/dire-warnings-sound-over-hospital-capacity-as-novel-coronavirus-spreads/574049/
+- https://www.thelancet.com/action/showPdf?pii=S0140-6736%2820%2930627-9
 
-- https://projects.propublica.org/graphics/covid-hospitals
+Research on the following articles to find their sources (Use Adblocker)
