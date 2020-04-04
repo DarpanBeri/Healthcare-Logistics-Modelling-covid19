@@ -6,6 +6,8 @@ Papers:
 
 - Report 12 of Imperial College London: https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/news--wuhan-coronavirus/
 
+https://www.pnas.org/content/early/2020/04/02/2004064117
+
 Models:
 
 - CHIME https://technical.ly/philly/2020/03/17/penn-medicine-chime-digital-tool-hospitals-covid19-coronavirus-capacity-planning/      -------- SIR based model.
